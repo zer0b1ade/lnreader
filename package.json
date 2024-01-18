@@ -27,7 +27,7 @@
     "@types/react-native-vector-icons": "^6.4.10",
     "chalk": "^5.0.1",
     "cheerio": "^1.0.0-rc.10",
-    "expo": "^41.0.1",
+    "expo": "^50.0.0",
     "expo-document-picker": "^9.2.4",
     "expo-file-system": "~11.0.2",
     "expo-font": "~9.1.0",
